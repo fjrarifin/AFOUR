@@ -26,7 +26,7 @@ a {
   padding: 180px 0 180px 0; 
   background-image: url('bgPurple.jpg');
   /*background-size: cover; */
-  color: white;
+  color: #000000;
   text-align: left;
 }
 
@@ -60,7 +60,7 @@ a {
 
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: #000000;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -101,7 +101,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0px 25px;
-  color: white;
+  color: #000000;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -112,7 +112,7 @@ header {
 }
 
 .menu-icon {
-  color: white;
+  color: #000000;
   float: right;
   font-size: 25px;
   padding: 21px 0;
